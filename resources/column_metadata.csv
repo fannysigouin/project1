@@ -1,0 +1,28 @@
+id,type,info
+_id,int,
+EVENT_UNIQUE_ID,text,{'notes': 'Offence Number'}
+REPORT_DATE,date,{'notes': 'Date Offence was Reported'}
+OCC_DATE,date,{'notes': 'Date of Offence'}
+REPORT_YEAR,float8,{'notes': 'Year Offence was Reported'}
+REPORT_MONTH,text,{'notes': 'Month Offence was Reported'}
+REPORT_DAY,float8,{'notes': 'Day of the Month Offence was Reported'}
+REPORT_DOY,float8,{'notes': 'Day of the Year Offence was Reported'}
+REPORT_DOW,text,{'notes': 'Day of the Week Offence was Reported'}
+REPORT_HOUR,float8,{'notes': 'Hour Offence was Reported'}
+OCC_YEAR,float8,{'notes': 'Year Offence Occurred'}
+OCC_MONTH,text,{'notes': 'Month Offence Occurred'}
+OCC_DAY,float8,{'notes': 'Day of the Month Offence Occurred'}
+OCC_DOY,float8,{'notes': 'Day of the Year Offence Occurred'}
+OCC_DOW,text,{'notes': 'Day of the Week Offence Occurred'}
+OCC_HOUR,float8,{'notes': 'Hour Offence Occurred'}
+DIVISION,text,{'notes': 'Police Division where Offence Occurred'}
+LOCATION_TYPE,text,{'notes': 'Location Type of Offence'}
+PREMISES_TYPE,text,{'notes': 'Premises Type of Offence'}
+UCR_CODE,float8,{'notes': 'UCR Code for Offence'}
+UCR_EXT,float8,{'notes': 'UCR Extension for Offence'}
+OFFENCE,text,{'notes': 'Title of Offence'}
+MCI_CATEGORY,text,{'notes': 'MCI Category of Occurrence'}
+HOOD_158,text,"{'notes': ""Identifier of Neighbourhood using City of Toronto's new 158 neighbourhood structure""}"
+NEIGHBOURHOOD_158,text,"{'notes': ""Name of Neighbourhood using City of Toronto's new 158 neighbourhood structure""}"
+HOOD_140,text,"{'notes': ""Identifier of Neighbourhood using City of Toronto's old 140 neighbourhood structure""}"
+NEIGHBOURHOOD_140,text,"{'notes': ""Name of Neighbourhood using City of Toronto's old 140 neighbourhood structure""}"
