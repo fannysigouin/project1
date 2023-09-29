@@ -30,7 +30,6 @@ Our target audience is the general public, mainly the people living in the City 
 
 Columns: OCC_DATE, OCC_HOUR, REPORT_DATE, REPORT_HOUR
 
-
 ## Q2: In each year: What are the peak times for crime occurences? Does it change according to season? Is there a concentration of crime around a specific period of the year? 
 
 Columns: OCC_DATE, OCC_YEAR, OCC_MONTH, OCC_DAY, OCC_DOY, OCC_DOW, OCC_HOUR
