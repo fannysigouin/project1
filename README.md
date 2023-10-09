@@ -24,7 +24,7 @@ Analyze major crime indicators in the city of Toronto, identifying trends by typ
 
 ## Audience
 
-Our target audience is the general public, mainly the people living in the City of Toronto that are interested in the crime patterns of their city.
+Our target audience is the general public. We seek to inform the people living in the City of Toronto about the crime patterns of their city.
 
 ## Questions
 
