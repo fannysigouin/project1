@@ -10,11 +10,7 @@ We are using the Major Crime Indicators dataset published by the Toronto Police 
 
 **Link:** https://open.toronto.ca/dataset/major-crime-indicators/
 
-From the dataset page: 
-
-> This data is provided at the offence and/or victim level, therefore one occurrence number may have several rows of data associated to the various MCIs used to categorize the occurrence.
-
-Therefore, we decided to consider rows that are identical (i.e. same event ID and Offence) as a single data point, keeping those with the same event ID but different Offence name as separate.
+We accessed the data using the API for Toronto Open Data datasets.
 
 The process of getting and cleaning the data is detailed in this Jupyter Notebook: [get_and_clean_data.ipynb](get_and_clean_data.ipynb)
 
